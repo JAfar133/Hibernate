@@ -9,10 +9,10 @@ educational library app using Hibernate and Spring Jpa
 У библиотекаря есть функционал поиска книги и сортировки.
 
 ### Использованные технологии:
-- Spring boot
+- Spring Boot
 - Spring Data Jpa
+- Spring Validation
 - Hibernate
 - Thymeleaf
 - PostgreSQL
-- Spring Validation
 - Maven
